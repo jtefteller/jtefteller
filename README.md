@@ -10,17 +10,15 @@ Senior Software Engineer at WP Engine, Cloud Engineer, Entrepreneur, AI Enthusia
 
 <https://github.com/jtefteller/justintefteller.com>
 
-### What pays the bills 
-Private:
+### What I work on daily 
 <https://wpengine.com>
 
 <https://aa-pest.com>
 
-
-Pubic:
 <https://knights-creek.com>
 
-<https://github.com/jtefteller/Knights-Creek>
+<https://justintefteller.com>
+
 
 ## A quote from the Master
 
