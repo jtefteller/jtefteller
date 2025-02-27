@@ -1,6 +1,6 @@
 # Justin Tefteller 
 
-Senior Software Engineer, Cloud Engineer, AI Enthusiast and RaspberryPi lover. I work mainly with Linux, GCP, Kubernetes, Postgres, Golang and Python.
+Senior Software Engineer at WP Engine, Cloud Engineer, Entrepreneur, AI Enthusiast and RaspberryPi lover. I work mainly with Linux, GCP, Kubernetes, Postgres, Golang, Python and Javascript.
 
 [I'm in love with my work](https://justintefteller.com) because there is always more to learn. 
 
@@ -11,14 +11,16 @@ Senior Software Engineer, Cloud Engineer, AI Enthusiast and RaspberryPi lover. I
 <https://github.com/jtefteller/justintefteller.com>
 
 ### What pays the bills 
+Private:
+<https://wpengine.com>
+
+<https://aa-pest.com>
+
 
 Pubic:
 <https://knights-creek.com>
 
 <https://github.com/jtefteller/Knights-Creek>
-
-Private:
-<https://aa-pest.com>
 
 ## A quote from the Master
 
