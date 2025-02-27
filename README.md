@@ -14,6 +14,7 @@ Senior Software Engineer, Cloud Engineer, AI Enthusiast and RaspberryPi lover. I
 
 Pubic:
 <https://knights-creek.com>
+
 <https://github.com/jtefteller/Knights-Creek>
 
 Private:
