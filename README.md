@@ -12,9 +12,12 @@ Senior Software Engineer, Cloud Engineer, AI Enthusiast and RaspberryPi lover. I
 
 ### What pays the bills 
 
-<https://github.com/jtefteller/aa-pest.com>
-
+Pubic:
+<https://knights-creek.com>
 <https://github.com/jtefteller/Knights-Creek>
+
+Private:
+<https://aa-pest.com>
 
 ## A quote from the Master
 
