@@ -13,6 +13,7 @@ Senior Software Engineer, Cloud Engineer, AI Enthusiast and RaspberryPi lover. I
 ### What pays the bills 
 
 <https://github.com/jtefteller/aa-pest.com>
+
 <https://github.com/jtefteller/Knights-Creek>
 
 ## A quote from the Master
