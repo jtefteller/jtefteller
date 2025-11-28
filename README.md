@@ -19,6 +19,8 @@ Senior Software Engineer at WP Engine, Cloud Engineer, Entrepreneur, AI Enthusia
 
 <https://justintefteller.com>
 
+<https://devotional.justintefteller.com>
+
 
 ## A quote from the Master
 
